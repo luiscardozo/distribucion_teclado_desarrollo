@@ -1,6 +1,9 @@
 # ditribucion_teclado_desarrollo
 Distribución de Teclado en Español Latinoamericano para desarrolladores (Windows)
 
+## Qué es?
+Una distribución de teclado para Windows que agrega los símbolos < y >, no disponibles cuando el teclado físico de la notebook está en inglés pero se elije una distribución en español.
+
 ## Historia
 Tenía que realizar un desarrollo que involucraban dispositivos a ser usados en Windows. Hacer las pruebas en una VM sobre mi Linux resultaba extremadamente lento (no por Linux, por Windows), así que, lamentablemente, tuve que conseguirme una notebook con Windows para este trabajo.
 
